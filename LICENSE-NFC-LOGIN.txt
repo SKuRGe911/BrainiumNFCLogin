@@ -1,0 +1,82 @@
+BRAINIUM NFC LOGIN
+FREEWARE SOFTWARE LICENSE AGREEMENT
+
+Effective date: 31 October 2026
+Copyright (c) 2026 Troy Marchant. All rights reserved.
+
+PLEASE READ THIS AGREEMENT BEFORE INSTALLING OR USING THE SOFTWARE. IT SETS OUT THE PERMITTED USE OF THE SOFTWARE AND IMPORTANT LIMITS ON ITS SECURITY AND RELIABILITY. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE IT.
+
+1. Parties and acceptance
+
+This agreement is between Troy Marchant (the “Licensor”) and the individual or organisation installing or using the Software (“you”). By downloading, installing, copying, building, or using the Software after being given this agreement, you agree to these terms to the extent the law recognises that acceptance. If the Software is supplied through an installer or download page with an acceptance step, you must accept there before installation or use.
+
+2. Definitions
+
+“Software” means the original Brainium NFC Login software made available by the Licensor, including the NFC credential provider, management or enrollment applications, installer and uninstaller materials, source code, assets, and documentation, in each case only to the extent owned by or licensable by the Licensor. Software does not include Third-Party Components or files expressly identified as having separate license terms.
+
+“Third-Party Components” means software, libraries, tools, assets, or other materials supplied by someone other than the Licensor and identified by their own copyright, notice, or license terms.
+
+3. License grant
+
+Subject to this agreement, the Licensor grants you a limited, personal, non-exclusive, non-transferable, royalty-free license to install, build from unmodified source, and use the Software for your own personal use or your organisation’s internal use. You may make the copies reasonably necessary for those purposes and for backup. This is not a license to provide the Software as a paid service, incorporate it into a product for distribution, or use it on another person’s device or account without that person’s informed authorisation.
+
+The Software is licensed, not sold. The Licensor retains all rights in the Software that are not expressly granted here. No rights are granted by implication.
+
+4. Restrictions
+
+Except to the extent a restriction is prohibited by applicable law, you must not:
+
+(a) sell, rent, lease, sublicense, publish, host, distribute, or otherwise provide the Software or a copy of it to another person;
+(b) modify, adapt, translate, or create a derivative work of the Software;
+(c) reverse engineer, decompile, or disassemble the Software, except where applicable law permits this despite the restriction;
+(d) remove or alter copyright, attribution, or other proprietary notices;
+(e) use the Software to access an account or computer without authority, or in breach of privacy, employment, or other applicable laws; or
+(f) represent that the Licensor endorses your use, deployment, or security configuration.
+
+The Software may be publicly visible in a source repository. Public availability does not grant rights to redistribute it, publish modified versions, or use it beyond the license granted above. You may share a link to the Licensor’s official repository or download location.
+
+5. Third-Party Components
+
+Third-Party Components remain subject to their own license terms and notices. Those terms govern your use of those components and prevail over this agreement to the extent they conflict. This agreement does not grant rights in any component that the Licensor does not own or have authority to license.
+
+6. Authentication, account data, and user responsibilities
+
+The Software adds an NFC-based Windows sign-in option. It may require administrator access and may process Windows account names, NFC card UIDs, reader names, and account passwords for that function. Passwords are stored locally using Windows Data Protection APIs and machine-level configuration; this is not a guarantee that a device or its credentials cannot be accessed or compromised.
+
+The NFC feature recognises a card using the UID reported by the reader. It does not perform cryptographic challenge-response authentication. Depending on the card and reader, a UID may be copied or emulated. Do not treat this Software or a UID-only card as a high-assurance security factor or as a substitute for security controls appropriate to your situation.
+
+You are responsible for deciding whether the Software is appropriate for your device and accounts, obtaining the device owner’s and account holder’s permission, securing the computer and NFC cards, and complying with applicable privacy and security laws. Before enabling the provider, keep another working sign-in method and an administrator recovery route available. Do not disable or remove other Windows credential providers solely because this Software is installed. Test the Software with an account and device for which you have a reliable recovery method.
+
+The Licensor does not receive account credentials or NFC data through an online service provided with the Software. If you choose to send logs, screenshots, or other diagnostic material to the Licensor, you are responsible for reviewing that material for personal or sensitive information before sending it.
+
+7. No support or update commitment
+
+The Licensor may provide updates or support but is not required to do so. The Licensor may change or stop distributing the Software. A later version may be subject to a different agreement if that agreement is presented with the version.
+
+8. No warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITH ALL FAULTS. THE LICENSOR DISCLAIMS WARRANTIES AND CONDITIONS THAT MAY LAWFULLY BE DISCLAIMED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, SECURITY, AVAILABILITY, AND ERROR-FREE OR UNINTERRUPTED OPERATION.
+
+The Licensor does not warrant that the Software will authenticate an account, prevent unauthorised access, preserve access to Windows, work with every Windows release, NFC card, or reader, or remain compatible with future changes to Windows or third-party components. You are responsible for backups, recovery access, and verifying that the Software works in your environment.
+
+9. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR IS NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL LOSS, OR FOR LOSS OF DATA, ACCOUNT ACCESS, PROFITS, BUSINESS, GOODWILL, OR USE, OR FOR DEVICE FAILURE, LOCKOUT, UNAUTHORISED ACCESS, SECURITY INCIDENTS, OR SERVICE INTERRUPTION ARISING FROM OR RELATED TO THE SOFTWARE, EVEN IF THE LICENSOR WAS ADVISED THAT SUCH LOSS WAS POSSIBLE.
+
+Nothing in this agreement excludes, restricts, or modifies a right, guarantee, remedy, or liability that cannot lawfully be excluded, restricted, or modified. In particular, if the Australian Consumer Law applies, this agreement does not remove rights or remedies that cannot be excluded under that law. Any limitation in this agreement applies only to the extent it is lawful and fair in the circumstances.
+
+10. Term and termination
+
+This agreement continues until ended. You may end it at any time by stopping use and deleting copies of the Software under your control. The Licensor may end your license by written notice if you materially breach this agreement and do not remedy the breach within 30 days after receiving notice. A termination does not affect rights or obligations that accrued before termination or provisions that by their nature continue afterward.
+
+11. Governing law
+
+This agreement is governed by the laws of Western Australia and the applicable laws of the Commonwealth of Australia. The courts of Western Australia have non-exclusive jurisdiction, subject to any non-excludable rights you have under applicable law.
+
+12. General
+
+If a provision is invalid or unenforceable, it is to be read down to the minimum extent necessary or severed, and the remaining provisions continue to apply. This agreement is the entire agreement between you and the Licensor about the Software, except for Third-Party Component terms and any separate license expressly identified for particular files. A change to this agreement must be published by the Licensor in writing.
+
+Contact:
+Troy Marchant
+skurge3@gmail.com
